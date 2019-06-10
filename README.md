@@ -1,11 +1,6 @@
-## All Core Devs Meetings
+## Các cuộc họp cổ đông
 
-### Purpose
-The all core devs meeting is a technical meeting intended to bring together various Ethereum teams who play major roles in determining the direction of the protocol. Ethereum client and research teams provide updates to their projects, discuss various [EIPs](https://eips.ethereum.org/) to improve the protocol, and support each other as we **buidl** Web 3.0.
-
-### Previous Meetings
-
- №  | Date                             | Notes          | Recording            |
+ №  | Ngày                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
  60 | Fri, April 26, 2019 14:00 UTC| [agenda](https://github.com/ethereum/pm/issues/95) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2060.md) | [video](https://www.youtube.com/watch?v=O_DE4NwOz9A) |
  59 | Fri, April 12, 2019 14:00 UTC| [agenda](https://github.com/ethereum/pm/issues/93) \| [notes](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2059.md) | [video](https://www.youtube.com/watch?v=gfC92gQKKnI) |
